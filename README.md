@@ -11,3 +11,6 @@ Skal flyttes til en JS-Kata
 ## Point
 Antal requests
 antal KB
+
+# TODO
+bg video
