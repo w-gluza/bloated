@@ -4,3 +4,6 @@
 .all-good {
     text-wrangler: true;
 }
+::placeholder {
+    color: gray;
+}
