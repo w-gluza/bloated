@@ -1,0 +1,22 @@
+{
+  "name": "bloated",
+  "version": "1.0.0",
+  "description": "Fork this repo, then clone it to your computer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w-gluza/bloated.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/w-gluza/bloated/issues"
+  },
+  "homepage": "https://github.com/w-gluza/bloated#readme",
+  "devDependencies": {
+    "node-sass": "^4.9.0"
+  }
+}
